@@ -46,9 +46,6 @@
 Modifikasi Program Sehingga:
 Menggunakan environment Taxi-v3 Menampilkan rata-rata reward setiap 100 episode Membandingkan Hasil training 1000,2000,5000 episode
 
-hasil 100
-<img width="1041" height="783" alt="image" src="https://github.com/user-attachments/assets/1a850777-bfce-4175-905f-4b326d3ff15d" />
-
 hasil 1000
 <img width="1076" height="780" alt="image" src="https://github.com/user-attachments/assets/17efb9eb-fde2-4b73-92d9-8424b3fc01ba" />
 
